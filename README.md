@@ -94,7 +94,9 @@ __Calculation__:
 
 
  __Result__:
- Thus the amplitude modulation (AM) using Python's NumPy and Matplotlib libraries was succesfully executed and its output is verfied.
+
+![WhatsApp Image 2025-11-23 at 07 36 14_86279197](https://github.com/user-attachments/assets/4a51d6ea-49f0-4a1a-b5ea-a482a8153f4a)
+
  
 
 
