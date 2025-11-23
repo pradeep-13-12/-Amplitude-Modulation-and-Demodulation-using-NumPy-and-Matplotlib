@@ -24,9 +24,17 @@ __Algorithm__:
 5. Modulate Signal: Apply the AM formula to obtain the modulated signal. 
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
+__Calculation__:
+![WhatsApp Image 2025-11-23 at 06 29 53_74f0567f](https://github.com/user-attachments/assets/25ea6eb9-65fa-4324-ba24-ad09bf4e752b)
+![WhatsApp Image 2025-11-23 at 06 30 07_d30c1549](https://github.com/user-attachments/assets/cc574bd1-8c01-4213-8feb-c0d282f2babd)
+
+
  __Output__:
+ ![WhatsApp Image 2025-11-23 at 06 30 29_85fd7d87](https://github.com/user-attachments/assets/77a9d2ee-187f-4f53-a639-ea84b84026a7)
 
 
  __Result__:
+ Thus the amplitude modulation (AM) using Python's NumPy and Matplotlib libraries was succesfully executed and its output is verfied.
+ 
 
 
